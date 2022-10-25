@@ -58,7 +58,7 @@ header a:hover{
 }
 
 h1{
-    line-height: 3em;
+    line-height: 2.5em;
     font-family: 'Ubuntu', sans-serif;
 }
 
@@ -141,7 +141,7 @@ main h2, h3, h4, p, div, ul, dl{
     background-size: 100% 100%;
 }
 
-#heromugs{
+#heroguitar{
     height: 300px;
     background-image: url(images/heroguitar.jpg);
     background-repeat: no-repeat;
@@ -151,6 +151,7 @@ main h2, h3, h4, p, div, ul, dl{
 .floatleft{
     float: left;
     padding-bottom: 2em;
+    padding-right: 2em;
 }
 
 .details{
